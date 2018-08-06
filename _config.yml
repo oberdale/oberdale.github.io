@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nathan Turner Informatin Security Proffesional
+title: Nathan Turner Information Security Proffesional
 email: Nathan.turner1978@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is to let you better get to know me as a proffesional and as a person.
@@ -24,7 +24,7 @@ github_username:  oberdale
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: front-cover
 plugins:
   - jekyll-feed
 
