@@ -24,7 +24,7 @@ github_username:  oberdale
 
 # Build settings
 markdown: kramdown
-theme: front-cover
+theme: minima
 plugins:
   - jekyll-feed
 
