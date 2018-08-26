@@ -16,7 +16,8 @@
 title: Nathan Turner Information Security Proffesional
 email: Nathan.Turnr1@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Dedicated professional and passionate information security student with advanced communication, teamwork and problem solving skills. I thrive in a fast paced environment that provides constant challenges and opportunity for growth
+Dedicated professional and passionate information security student 
+I thrive in a fast paced environment that provides constant challenges and opportunity for growth
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
