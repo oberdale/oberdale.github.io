@@ -20,7 +20,7 @@ Dedicated professional and passionate information security student
 I thrive in a fast paced environment that provides constant challenges and opportunity for growth
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: @oberdale
 github_username:  oberdale
 
 # Build settings
